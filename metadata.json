@@ -1,0 +1,6 @@
+{
+  "name": "Lesson Planning Agent AI",
+  "description": "AI-powered pedagogical lesson planning agent with constraint checking, 4-phase structured plans, classroom activities, and classroom stimulus generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
